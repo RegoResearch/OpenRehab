@@ -11,11 +11,8 @@ However, it requires relatively a lot of money.
 
 We would like to provide a simple, low-cost, and entertaining rehabilitation system like Nintendo Wii Fit and Ring Fit.
 
-I suppose to use Nordic Thingy 52 sensor that you can obtain by just $40.
-
-![image](https://user-images.githubusercontent.com/56623134/69489521-9d110400-0ebc-11ea-985a-2e66da137383.png)
-
-[Nordic Thingy 52 (nRF6936)](https://www.mouser.com/ProductDetail/Nordic-Semiconductor/nRF6936?qs=5aG0NVq1C4wGdQJYSOVFOA==)
+I suppose to use Nordic [Nordic Thingy 52 (nRF6936)](https://www.mouser.com/ProductDetail/Nordic-Semiconductor/nRF6936?qs=5aG0NVq1C4wGdQJYSOVFOA==)
+ sensor that you can obtain by just $40.
 
 Let's meet the OpenRehab [here](https://regoresearch.github.io/openrehab.html)
 
