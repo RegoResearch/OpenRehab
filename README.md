@@ -17,5 +17,7 @@ I suppose to use Nordic Thingy 52 sensor that you can obtain by just $40.
 
 [Nordic Thingy 52 (nRF6936)](https://www.mouser.com/ProductDetail/Nordic-Semiconductor/nRF6936?qs=5aG0NVq1C4wGdQJYSOVFOA==)
 
+Let's meet the OpenRehab [here](https://regoresearch.github.io/openrehab.html)
+
 
 If you have interests in this project, please contact me Sky Kim (rego.research@gmail.com).
