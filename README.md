@@ -13,6 +13,7 @@ We would like to provide a simple, low-cost, and entertaining rehabilitation sys
 
 I suppose to use Nordic [Nordic Thingy 52 (nRF6936)](https://www.mouser.com/ProductDetail/Nordic-Semiconductor/nRF6936?qs=5aG0NVq1C4wGdQJYSOVFOA==)
  sensor that you can obtain by just $40 with customized cases such as a puck, ball, and balance board.
+ We call it "REGO Tools".
 
 Let's meet the OpenRehab [here](https://regoresearch.github.io/openrehab.html)
 
